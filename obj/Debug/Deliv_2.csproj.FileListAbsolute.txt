@@ -1,0 +1,7 @@
+C:\Users\achia\source\repos\PreWork\Deliv_2\bin\Debug\Deliv_2.exe.config
+C:\Users\achia\source\repos\PreWork\Deliv_2\bin\Debug\Deliv_2.exe
+C:\Users\achia\source\repos\PreWork\Deliv_2\bin\Debug\Deliv_2.pdb
+C:\Users\achia\source\repos\PreWork\Deliv_2\obj\Debug\Deliv_2.csprojAssemblyReference.cache
+C:\Users\achia\source\repos\PreWork\Deliv_2\obj\Debug\Deliv_2.csproj.CoreCompileInputs.cache
+C:\Users\achia\source\repos\PreWork\Deliv_2\obj\Debug\Deliv_2.exe
+C:\Users\achia\source\repos\PreWork\Deliv_2\obj\Debug\Deliv_2.pdb
